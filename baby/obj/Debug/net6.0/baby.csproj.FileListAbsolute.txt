@@ -1,0 +1,15 @@
+C:\Users\днс\OneDrive\Рабочий стол\chetv\baby\bin\Debug\net6.0\baby.exe
+C:\Users\днс\OneDrive\Рабочий стол\chetv\baby\bin\Debug\net6.0\baby.deps.json
+C:\Users\днс\OneDrive\Рабочий стол\chetv\baby\bin\Debug\net6.0\baby.runtimeconfig.json
+C:\Users\днс\OneDrive\Рабочий стол\chetv\baby\bin\Debug\net6.0\baby.dll
+C:\Users\днс\OneDrive\Рабочий стол\chetv\baby\bin\Debug\net6.0\baby.pdb
+C:\Users\днс\OneDrive\Рабочий стол\chetv\baby\obj\Debug\net6.0\baby.csproj.AssemblyReference.cache
+C:\Users\днс\OneDrive\Рабочий стол\chetv\baby\obj\Debug\net6.0\baby.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\днс\OneDrive\Рабочий стол\chetv\baby\obj\Debug\net6.0\baby.AssemblyInfoInputs.cache
+C:\Users\днс\OneDrive\Рабочий стол\chetv\baby\obj\Debug\net6.0\baby.AssemblyInfo.cs
+C:\Users\днс\OneDrive\Рабочий стол\chetv\baby\obj\Debug\net6.0\baby.csproj.CoreCompileInputs.cache
+C:\Users\днс\OneDrive\Рабочий стол\chetv\baby\obj\Debug\net6.0\baby.dll
+C:\Users\днс\OneDrive\Рабочий стол\chetv\baby\obj\Debug\net6.0\refint\baby.dll
+C:\Users\днс\OneDrive\Рабочий стол\chetv\baby\obj\Debug\net6.0\baby.pdb
+C:\Users\днс\OneDrive\Рабочий стол\chetv\baby\obj\Debug\net6.0\baby.genruntimeconfig.cache
+C:\Users\днс\OneDrive\Рабочий стол\chetv\baby\obj\Debug\net6.0\ref\baby.dll
